@@ -1,0 +1,17 @@
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\Remote Control Server.exe.config
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\Remote Control Server.exe
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\Remote Control Server.pdb
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\MaterialSkin.dll
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\MetroFramework.dll
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote Control Server.csprojAssemblyReference.cache
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote_Control_Server.Form1.resources
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote_Control_Server.Properties.Resources.resources
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote_Control_Server.UI.AdminControl.resources
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote Control Server.csproj.GenerateResource.cache
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote Control Server.csproj.CoreCompileInputs.cache
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote Control Server.csproj.CopyComplete
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote Control Server.exe
+C:\Users\krx\source\repos\Remote Control Server\Remote Control Server\obj\Debug\Remote Control Server.pdb
