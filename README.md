@@ -1,7 +1,7 @@
 # Remote-Controller
 Application for computer remote control in the local network
 
-Supported functions 
+Supported functions <br>
    <input type="checkbox" name="option2" value="a2">Command Prompt<Br>
    <input type="checkbox" name="option2" value="a2">Remote Desktop<Br>
    <input type="checkbox" name="option2" value="a2">Remote WebCam<Br>
